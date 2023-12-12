@@ -17,7 +17,7 @@ Clique em [Bikcraft](https://joaodev2005.github.io/Bikcraft/)🔗 para acessar.
 
 <h3 id="status">📌 Status do projeto</h3>
 
-Finalizando os JS. ​​👨‍💻​
+Finalizando o JS. ​​👨‍💻​
 
 [Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...) <br>
 Desenvolvido com ❤️ por **João Victor**
