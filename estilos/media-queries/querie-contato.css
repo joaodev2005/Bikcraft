@@ -1,0 +1,190 @@
+@media (max-width: 600px) {
+    .navigation-list {
+        gap: 12px;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .navigation-list {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .navigation-list li a {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 800px) {
+    .navigation-list a:hover {
+        background-color: var(--cor-10);
+    }
+}
+
+@media (min-width: 800px) {
+    .navigation-list li>a:hover::after {
+        width: 100%;
+    }
+}
+
+@media (max-width: 800px) {
+    .navigation-list a {
+        background: var(--cor-11);
+        padding: 12px 16px;
+        border-radius: 4px;
+    }
+}
+
+@media (max-width: 800px) {
+    .titulo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+
+@media (max-width: 800px) {
+    .titulo-container p {
+        font-size: 16px;
+    }
+}
+
+
+@media (max-width: 1200px) {
+    .titulo-container h1 {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 800px) {
+    .contato-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 800px) {
+    .contato-dados {
+        border-radius: 5px 5px 0 0;
+        background: var(--cor-12);
+    }
+}
+
+
+@media (max-width: 800px) {
+
+    .contato-dados,
+    .contato-formulario {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .contato-dados h2,
+    .contato-meios a:nth-child(3) {
+        margin-bottom: 32px;
+    }
+}
+
+@media (max-width: 800px) {
+    .contato-redes {
+        margin-bottom: 12px;
+    }
+}
+
+@media (max-width: 800px) {
+    .contato-formulario {
+        border-radius: 0 0 5px 5px;
+    }
+}
+
+@media (max-width: 600px) {
+    .form {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .form .col-2 {
+        grid-column: 1;
+    }
+}
+
+@media (max-width: 600px) {
+    .botao {
+        padding: 12px 16px;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .lojas-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .lojas-container {
+        gap: 20px;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+}
+
+@media (max-width: 800px) {
+    .lojas-container h2 {
+        font-size: 2rem;
+    }
+}
+
+
+@media (max-width: 1200px) {
+    .lojas-container h2 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 800px) {
+    .lojas-conteudo {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .lojas-conteudo h3,
+    .lojas-conteudo h3 {
+        font-size: 1.5rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+    .footer-container {
+        grid-template-columns: 1fr;
+        gap: 60px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .footer-container h3 {
+        font-size: 1.125rem;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .logo {
+        display: none;
+    }
+}
