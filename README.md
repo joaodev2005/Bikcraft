@@ -17,7 +17,7 @@ Clique em [Bikcraft](https://brseghese.github.io/origamid-bikcraft)🔗 para ace
 
 <h3 id="status">📌 Status do projeto</h3>
 
-Concluído. ​​👨‍💻​
+Finalizando os JS. ​​👨‍💻​
 
 [Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...) <br>
 Desenvolvido com ❤️ por **João Victor**
