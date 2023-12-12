@@ -5,7 +5,7 @@
 </div>  
 <h3 id="inicio">🚀 Início</h3>
 
-Clique em [Bikcraft](https://brseghese.github.io/origamid-bikcraft)🔗 para acessar.
+Clique em [Bikcraft](https://joaodev2005.github.io/Bikcraft/)🔗 para acessar.
 
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
 
