@@ -1,9 +1,15 @@
+@media (min-width: 1200px) {
+    .depoimento img {
+        max-height: 520px;
+    }
+}
+
+
 @media (max-width: 600px) {
     .navigation-list {
         gap: 12px;
     }
 }
-
 
 @media (max-width: 800px) {
     .navigation-list {
@@ -63,6 +69,10 @@
     .first-content h1 {
         margin-bottom: 16px;
         font-size: 32px;
+    }
+
+    .first-content p {
+        font-size: 18px;
     }
 
 }
@@ -250,25 +260,6 @@
         font-size: 1rem;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width: 600px) {
     .footer-container {
