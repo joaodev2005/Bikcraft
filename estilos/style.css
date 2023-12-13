@@ -540,6 +540,35 @@ img {
     margin-bottom: 32px;
 }
 
+.footer li {
+    margin-bottom: 16px;
+    font-weight: 600;
+    font-size: 1.125rem;
+    font-family: var(--font-roboto);
+}
+
+.footer li a:hover {
+    color: var(--cor-0);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-redes {
+    display: flex;
+    gap: 32px;
+}
+
+.footer-copy {
+    grid-column: 1/-1;
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: 1.125rem;
+    font-family: var(--font-roboto);
+}
+
 
 
 
