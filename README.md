@@ -5,7 +5,7 @@
 </div>  
 <h3 id="inicio">🚀 Início</h3>
 
-Clique em [Bikcraft](https://brseghese.github.io/origamid-bikcraft)🔗 para acessar.
+Clique em [Bikcraft](https://joaodev2005.github.io/Bikcraft/)🔗 para acessar.
 
 <h3 id="tecnologias">⚙️ Tecnologias Utilizadas</h3>
 
@@ -17,7 +17,7 @@ Clique em [Bikcraft](https://brseghese.github.io/origamid-bikcraft)🔗 para ace
 
 <h3 id="status">📌 Status do projeto</h3>
 
-Finalizando os JS. ​​👨‍💻​
+Finalizando o JS. ​​👨‍💻​
 
 [Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...) <br>
 Desenvolvido com ❤️ por **João Victor**
