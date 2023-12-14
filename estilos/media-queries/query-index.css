@@ -114,7 +114,7 @@
     }
 
     .parceiros ul {
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .parceiros li {
@@ -141,10 +141,10 @@
     .depoimento-conteudo {
         padding: 40px 20px;
         justify-self: center;
-    } 
-    
+    }
+
     .depoimento-conteudo p {
-      font-size: 1.5rem;
+        font-size: 1.5rem;
     }
 
     .seguros {
@@ -171,31 +171,36 @@
         display: none;
     }
 
-    @media (max-width: 600px) {
-        .navigation-list {
-            gap: 12px;
-        }
+    .footer {
+        grid-template-columns: 1fr;
+        gap: 60px;
     }
-    
-    @media (max-width: 800px) {
-        .navigation-list {
-            gap: 20px;
-        }
+
+
+    .navigation-list {
+        gap: 12px;
     }
-    
-    @media (max-width: 600px) {
-        .navigation-list li a {
-            padding: 8px 12px;
-            font-size: 14px;
-        }
+
+
+
+    .navigation-list {
+        gap: 20px;
     }
-    
-    @media (max-width: 800px) {
-        .navigation-list a:hover {
-            background-color: var(--cor-10);
-        }
+
+
+
+    .navigation-list li a {
+        padding: 8px 12px;
+        font-size: 14px;
+
     }
-    
+
+
+    .navigation-list a:hover {
+        background-color: var(--cor-10);
+    }
+
+
     @media (max-width: 800px) {
         .navigation-list a {
             background: var(--cor-11);
@@ -203,7 +208,7 @@
             border-radius: 4px;
         }
     }
-    
+
     @media (min-width: 800px) {
         .navigation-list li>a:hover::after {
             width: 100%;
